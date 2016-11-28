@@ -3,8 +3,7 @@ Project 3
 "Binary Search Tree" (using the data structures learned in CPSC 131)
 
 Group members:
-
-Ada Lovelace adalovelace@csu.fullerton.edu
+Thomas Brenner tommyb@csu.fullerton.edu
 
 Charles Babbage charlesbab@csu.fullerton.edu
 
